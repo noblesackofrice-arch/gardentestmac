@@ -19,7 +19,7 @@ const defaultHotspots: Hotspot[] = [
     title: 'George Vancouver Roses1',
     description:
       'George Vancouver Roses',
-    image: '/public/H099-23.jpg',
+    image: '/H099-23.jpg',
   },
   {
     id: 'hs2',
