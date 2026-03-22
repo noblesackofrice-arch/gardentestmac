@@ -19,7 +19,7 @@ const defaultHotspots: Hotspot[] = [
     title: 'George Vancouver Roses',
     description:
       'This is a placeholder description for hotspot A. Replace with your actual content about this area.',
-    image: '/H099-23.jpg',
+    image: 'H099-23.jpg',
   },
   {
     id: 'hs2',
