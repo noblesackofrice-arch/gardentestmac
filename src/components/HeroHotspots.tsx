@@ -16,9 +16,9 @@ const defaultHotspots: Hotspot[] = [
     x: 25,
     y: 30,
     label: '1',
-    title: 'George Vancouver Roses1',
+    title: 'George Vancouver Roses',
     description:
-      'George Vancouver Roses',
+      '',
     image: '/H099-23.jpg',
   },
   {
@@ -26,30 +26,30 @@ const defaultHotspots: Hotspot[] = [
     x: 55,
     y: 22,
     label: '2',
-    title: 'Point of Interest B',
+    title: 'Campsis radicans Judy',
     description:
-      'This is a placeholder description for hotspot B. Add details about what makes this spot special.',
-    image: '/public/H099-23.jpg',
+      '',
+    image: '/60f2c4b33f1083be8304b50d70d4135e.png',
   },
   {
     id: 'hs3',
     x: 75,
     y: 55,
     label: '3',
-    title: 'Point of Interest C',
+    title: 'Magnolia x Susan',
     description:
-      'Hotspot C placeholder content. Describe what visitors will find here.',
-    image: '/placeholder.png',
+      '',
+    image: '/magnolia-susan.jpg',
   },
   {
     id: 'hs4',
     x: 35,
     y: 65,
     label: '4',
-    title: 'Point of Interest D',
+    title: 'Phlox paniculata David',
     description:
-      'This area highlights something noteworthy. Replace this text with real information.',
-    image: '/placeholder.png',
+      '',
+    image: '/davidphlox.jpg',
   },
 ]
 
