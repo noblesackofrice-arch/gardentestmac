@@ -18,7 +18,7 @@ const defaultHotspots: Hotspot[] = [
     label: '1',
     title: 'George Vancouver Roses',
     description:
-      'This is a placeholder description for hotspot A. Replace with your actual content about this area.',
+      'George Vancouver Roses',
     image: '/H099-23.jpg',
   },
   {
