@@ -13,7 +13,7 @@ export interface Hotspot {
 const defaultHotspots: Hotspot[] = [
   {
     id: 'hs1',
-    x: 20,
+    x: 25,
     y: 30,
     label: '1',
     title: 'Point of Interest A',
