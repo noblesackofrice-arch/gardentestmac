@@ -29,7 +29,7 @@ const defaultHotspots: Hotspot[] = [
     title: 'Point of Interest B',
     description:
       'This is a placeholder description for hotspot B. Add details about what makes this spot special.',
-    image: '/placeholder.png',
+    image: '/public/H099-23.jpg',
   },
   {
     id: 'hs3',
