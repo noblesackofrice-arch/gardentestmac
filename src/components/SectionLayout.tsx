@@ -27,7 +27,7 @@ export function ImagePlaceholder({ label = 'Image Placeholder' }: { label?: stri
   return (
     <div className="w-full aspect-[4/3] rounded-xl border-2 border-dashed border-gray-300 bg-gray-100 flex flex-col items-center justify-center gap-2 text-gray-400">
       <svg
-        className="w-10 h-10"
+        className="w-15 h-15"
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
