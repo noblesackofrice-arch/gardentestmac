@@ -59,7 +59,7 @@ interface HeroHotspotsProps {
 }
 
 export function HeroHotspots({
-  heroImage = '/placeholder.png',
+  heroImage = '/GRID-OVERLAY-02-600x600.png',
   hotspots = defaultHotspots,
 }: HeroHotspotsProps) {
   const [activeHotspot, setActiveHotspot] = useState<Hotspot | null>(null)
